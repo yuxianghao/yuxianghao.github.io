@@ -28,8 +28,8 @@ body {
 	background: #f6f6f6;
 	border: 1px solid #dddddd;
 	#padding-top: 0.5em;
-	padding-left: 8px;
-	padding-right: 8px;
+	#padding-left: 8px;
+	#padding-right: 8px;
 	font-size: 90%;
 	#width: auto;
 	white-space: nowrap;
@@ -38,9 +38,9 @@ body {
 	width: 10%;
 
 	position: fixed;
-	top:0;
-	left:0pt;
-	height:100%;
+	top:8px;
+	left:8px;
+	height:97.5%;
 	width:auto;
 	
 }
