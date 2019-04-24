@@ -9,7 +9,7 @@ table#tlayout {
 }
 
 body {
-	background-image: ("_MG_7894.JPG");
+	background-image: url("_MG_7894.JPG");
 	#font-family: Georgia, serif;
 	font-family: Garamond;
 	padding-bottom: 8px;
