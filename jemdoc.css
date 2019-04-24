@@ -4,10 +4,11 @@ table#tlayout {
     	border: none;
     	border-collapse: separate;
 	background-color: rgba(255,255,255,.9);
-	height: 100%;
-	width: 100%;
-	#background-height:200%;
+	width:100%;
+	#height:1000pt;
+	height:100vh; 
 }
+
 
 body {
 	background-image: url("MG_7894.JPG");
@@ -18,7 +19,7 @@ body {
 	font-size: 15pt;
 	padding-right: 12%;
 	background-size: 100%;
-	
+	#width: auto;
 }
 
 #layout-menu {
@@ -28,10 +29,10 @@ body {
 	padding-left: 8px;
 	padding-right: 8px;
 	font-size: 85%;
-	width: auto;
+	#width: auto;
 	white-space: nowrap;
-    text-align: left;
-    vertical-align: top;
+    	text-align: left;
+    	vertical-align: top;
 	width: 10%;
 }
 
@@ -350,6 +351,7 @@ table {
     border: 2px solid black;
     border-collapse: collapse;
 }
+
 
 td {
     padding: 2px;
