@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{publication.html}
+= Publications 
+[https://scholar.google.com.hk/citations?user=PDiT3OsAAAAJ&hl=en&oi=ao \[Google Scholar\]]
+
+
+
+
+
+	
+~~~
+== Book
+. *X. Yu*, C. Li, J. Zhang, and K. B. Letaief, /Stochastic Geometry Analysis of Multi-Antenna Wireless Networks/, Springer, 2019. [https://www.springer.com/gp/book/9789811358791 \[Book Website\]] 
+~~~
+
+
+~~~
+== Journal Papers
+. *X. Yu*, J. Zhang, and K. B. Letaief, “Doubling phase shifters for efficient hybrid precoding in millimeter-wave multiuser OFDM systems,” submitted to /J. Commun, Inf. Netw./, Apr. 2019.
+. J. Zhang, *X. Yu*, and K. B. Letaief, “A holistic view on hybrid beamforming for 5G millimeter-wave systems,” submitted to /IEEE Veh. Technol. Mag., Special Issue on 5G Technologies and Applications (5)/, Apr. 2019.
+. *X. Yu*, C. Li, J. Zhang, M. Haenggi, and K. B. Letaief, “A unified framework for the tractable analysis of multi-antenna wireless networks,” /IEEE Trans. Commun./, vol. 17, no. 12, pp. 7965-7980, Dec. 2018. [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8490204 \[Paper\]]
+. *X. Yu*, J. Zhang, and K. B. Letaief, “A hardware-efficient analog network structure for hybrid precoding in millimeter wave systems,” /IEEE J. Sel. Topics Signal Process., Special Issue on Hybrid Analog-Digital Signal Processing for Hardware-Efficient Large Scale Antenna Arrays/, vol. 12, no. 2, pp. 282-297, May 2018. [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310586 \[Ppaer\]] [http://www.eie.polyu.edu.hk/~jeiezhang/document/Code_FPS.zip \[Codes\]]
+. *X. Yu*, J. Zhang, M. Haenggi, and K. B. Letaief, “Coverage analysis for millimeter wave networks: The impact of directional antenna arrays,” /IEEE J. Sel. Areas Commun., Special Issue on Millimeter Wave Communications for Future Mobile Networks/, vol. 35, no. 7, pp. 1498-1512, Jul. 2017. [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7913628 \[Paper\]]
+. *X. Yu*, J.-C. Shen, J. Zhang, and K. B. Letaief, “Alternating minimization algorithms for hybrid precoding in millimeter wave MIMO systems,” /IEEE J. Sel. Topics Signal Process., Special Issue on Signal Processing for Millimeter Wave Wireless Communications/, vol. 10, no. 3, pp. 485-500, Apr. 2016. [https://signalprocessingsociety.org/newsletter/2019/01/2018-ieee-signal-processing-society-awardees {{<strong>}}(The 2018 IEEE Signal Processing Society Young Author Best Paper Award){{</strong>}}] {{<strong>}}(ESI Highly Cited Paper){{</strong>}} [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7397861 \[Paper\]] [https://github.com/yuxianghao/Alternating-minimization-algorithms-for-hybrid-precoding-in-millimeter-wave-MIMO-systems \[Codes\]]
+~~~
+
+
+~~~
+== Conference Papers
+. *X. Yu*, D. Xu, and R. Schober, “Enabling secure wireless communications via intelligent reflecting surfaces,” submitted to /IEEE Global Commun. Conf. (GLOBECOM)/, Waikoloa, HI, USA, Dec. 2019. [https://arxiv.org/pdf/1904.09573.pdf \[Paper\]]
+. *X. Yu*, D. Xu, and R. Schober, “MISO wireless communication systems via intelligent reflecting surfaces,” submitted to /IEEE\/CIC Int. Conf. Commun. China (ICCC)/, Changchun, China, Aug. 2019. {{<strong>}}(Invited Paper){{</strong>}} [ \[Paper\]]
+. *X. Yu*, J. Zhang, R. Schober, and K. B. Letaief, “A tractable framework for coverage analysis of cellular-connected UAV networks,” in /Proc. IEEE Int. Conf. Commun. (ICC), Workshop On Integrating UAVs Into 5G and Beyond (IU5GB)/, Shanghai, China, May 2019. [https://arxiv.org/abs/1901.11326 \[Paper\]]
+. *X. Yu*, J. Zhang, and K. B. Letaief, “Hybrid precoding in millimeter wave systems: How many phase shifters are needed?” in /Proc. IEEE Global Commun. Conf. (GLOBECOM)/, Singapore, Dec. 2017. {{<strong>}}(Best Paper Award){{</strong>}}
+. *X. Yu*, J. Zhang, and K. B. Letaief, “Partially-connected hybrid precoding in mm-wave systems with dynamic phase shifter networks,” in /Proc. IEEE Int. Workshop Signal Process. Adv. Wireless Commun. (SPAWC)/, Sapporo, Japan, Jul. 2017, pp. 129-133.
+. *X. Yu*, C. Li, J. Zhang, and K. B. Letaief, “A tractable framework for performance analysis of dense multi-antenna networks,” in /Proc. IEEE Int. Conf. Commun. (ICC)/, Paris, France, May 2016, pp. 1-6.
+. *X. Yu*, J. Zhang, and K. B. Letaief, “Alternating minimization for hybrid precoding in multiuser OFDM mmWave Systems,” in /Proc. 50th Asilomar Conf. on Signals, Systems, and Computers/, Pacific Grove, CA, USA, Nov. 2016, pp. 281-285. {{<strong>}}(Invited Paper){{</strong>}}
+. *X. Yu*, J. Zhang, and K. B. Letaief, “Coverage analysis for dense millimeter wave cellular networks: The impact of array size,” in /Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)/, Doha, Qatar, Apr. 2016, pp. 1-6.
+. *X. Yu*, J.-C. Shen, J. Zhang, and K. B. Letaief, “Hybrid precoding design in millimeter wave MIMO systems: An alternating minimization approach,” in /Proc. IEEE Global Commun. Conf. (GLOBECOM)/, San Diego, CA, USA, Dec. 2015, pp. 1-6.
+~~~
