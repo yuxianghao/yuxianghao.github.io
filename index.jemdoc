@@ -1,0 +1,57 @@
+# jemdoc: menu{MENU}{index.html}
+= Xianghao Yu
+
+~~~
+{}{img_left}{XianghaoYu.jpg}{alt text}{200px}{250px}{}
+* Postdoctoral Fellow* \n 
+Alexander von Humboldt Postdoctoral Researcher\n
+
+Institute for Digital Communications (IDC)\n
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) \n
+91058 Erlangen, Germany\n
+
+Office: Room 01.037, Cauerstraße 7 \n
+Email: xianghao.yu@fau.de\n
+
+
+
+[https://scholar.google.com.hk/citations?user=PDiT3OsAAAAJ&hl=en&oi=ao \[Google Scholar\]]
+~~~
+
+== Bio
+I received my B.Eng. degree in information engineering from Southeast University, Nanjing, China, in 2014, under the supervision of [http://ncrl.seu.edu.cn/2017/0620/c17542a191997/page.htm Prof. Wei Xu]. In Aug. 2018, I received my Ph.D. degree in electronic and computer engineering (ECE) from the Hong Kong University of Science and Technology (HKUST), Hong Kong, China, under the supervision of [https://www.ece.ust.hk/~eekhaled/ Prof. Khaled B. LETAIEF] and [http://www.eie.polyu.edu.hk/~jeiezhang/ Prof. Jun ZHANG]. Currently, I am a Postdoctoral Fellow in the Institute for Digital Communications (IDC) at Friedrich-Alexander-University Erlangen-Nuremberg (FAU), Erlangen, Germany. I am supported by the prestigious *Humboldt Research Fellowship*, hosted by [https://scholar.google.com/citations?user=Uu0BpX8AAAAJ&hl=en&oi=sra Prof. Robert Schober]. My research interests include millimeter wave communications, MIMO systems, mathematical optimization, large intelligent surface-assisted communications, and stochastic geometry. I co-authored the book /Stochastic Geometry Analysis of Multi-Antenna Wireless Networks/ (Springer, 2019). I also received the *IEEE GLOBECOM 2017 Best Paper Award*, the *2018 IEEE Signal Processing Society Young Author Best Paper Award*, and the *IEEE GLOBECOM 2019 Best Paper Award*.
+
+== News
+- {{<font color=red><b>}}New{{</b></font>}} \[08\/2020\] My paper “Alternating Minimization Algorithms for Hybrid Precoding in Millimeter Wave MIMO Systems” has been identified as being one of the IEEE Signal Processing Society’s top 25 downloaded articles in 2019 for IEEE Journal of Selected Topics in Signal Processing. Invited by IEEE Signal Processing Society, Prof. Zhang and I gave a webinar “An Algorithmic Investigation of Hybrid Beamforming for 5G and Beyond Networks”. [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7397861 \[Paper\]] [slides/SPS_webinar.pdf \[Slides\]]
+
+- {{<font color=red><b>}}New{{</b></font>}} \[08\/2020\] A paper on IRS-assisted full-duplex cognitive radio systems was accepted to IEEE Transactions on Communications (TCOM). [https://arxiv.org/pdf/2003.07467.pdf \[Paper\]]
+
+- {{<font color=red><b>}}New{{</b></font>}} \[05\/2020\] A paper on IRS-assisted secure wireless communications was accepted to IEEE Journal on Selected Areas in Communications (JSAC), Special Issue on Wireless Networks Empowered by Reconfigurable Intelligent Surfaces. [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9133130 \[Paper\]]
+
+- \[11\/2019\] A survey paper on hybrid beamforming was accepted as an invited paper to IEEE Open Journal of the Communications Society (OJ-COMS). [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8932399 \[Paper\]]
+
+- \[10\/2019\]  I received the {{<strong>}}GLOBECOM 2019 Best Paper Award{{</strong>}} of the Wireless Communications Symposium, for paper “Enabling secure wireless communications via intelligent reflecting surfaces” co-authored with D. Xu and R. Schober. [https://arxiv.org/pdf/1904.09573.pdf \[Paper\]]
+
+- \[08\/2019\] I gave a tutorial “Hybrid Beamforming for 5G Millimeter Wave Systems” at IEEE\/CIC International Conference on Communications in China (ICCC), Changchun, China. [slides/ICCC19.pdf \[Slides\]]
+
+- \[05/2019\] I received the [https://www.seng.ust.hk/web/eng/news_detail.php?id=1129 {{<strong>}}2018-19 SENG PhD Research Excellence Award{{</strong>}}] at HKUST (only 1 awardee in the School of Engineering).
+
+- \[05/2019\] I received the [https://signalprocessingsociety.org/newsletter/2019/01/2018-ieee-signal-processing-society-awardees {{<strong>}} 2018 IEEE Signal Processing Society Young Author Best Paper Award{{</strong>}}], for paper “Alternating Minimization Algorithms for Hybrid Precoding in Millimeter Wave MIMO Systems,” co-authored with J.-C. Shen, J. Zhang, and K. B. Letaief. [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7397861 \[Paper\]] 
+
+
+- \[04/2019\] The book “{{<em>}}Stochastic Geometry Analysis of Multi-Antenna Wireless Networks{{</em>}}” has been published by Springer. [https://www.springer.com/gp/book/9789811358791 \[Book Website\]] 
+
+
+- \[02/2019\] I was listed as one of {{<b>}}exemplary reviewers of IEEE Transactions on Wireless Communications (TWC){{</b>}} for two consecutive years (2017–2018). [https://www.comsoc.org/publications/journals/ieee-twc/exemplary-reviewers \[Award Information\]]
+
+- \[02/2019\] I received the prestigious {{<strong>}}Humboldt Research Fellowship for Postdoctoral Researchers{{</strong>}}, hosted by [https://scholar.google.com/citations?user=Uu0BpX8AAAAJ&hl=en&oi=sra Prof. Robert Schober]. [https://www.humboldt-foundation.de/pls/web/pub_hn_query.humboldtianer_details?p_lang=en&p_externe_id=4264644 \[Fellowship Information\]]
+
+- \[11/2018\] I joined Prof. Robert Schober's research group as a Postdoc Fellow.
+
+- \[10/2018\] I received *Hong Kong Telecom Institute of Information Technology (HKTIIT) Post-Graduate Excellence Scholarship*.
+
+- \[09/2018\]  The paper “A unified framework for the tractable analysis of multi-antenna wireless networks” was accepted to IEEE Transactions on Wireless Communications (TWC). [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8490204 \[Paper\]]
+
+- \[08/2018\]  I passed my Ph.D. thesis defense and joined HKUST as a Postdoc Fellow. [https://lbezone.ust.hk/bib/991012637268903412 \[Thesis\]]
+
+- \[12/2017\]  I received the {{<strong>}}GLOBECOM 2017 Best Paper Award{{</strong>}} of the Wireless Communications Symposium, for paper “Hybrid precoding in millimeter wave systems: How many phase shifters are needed?” co-authored with J. Zhang and K. B. Letaief. [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8254864&tag=1 \[Paper\]]\n
